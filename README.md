@@ -18,3 +18,10 @@ This repository contains the code and analytical reports developed for the Pract
 
 ## 📈 Impact and Results
 This project demonstrates the ability to translate raw census data into structured business and spatial insights. By applying quantitative performance metrics, it validates statistical hypotheses and ensures the mathematical reliability of the generated clusters.
+
+## 🤝 Contributors
+This project was developed collaboratively. A special thanks to my team members for their technical contributions and dedication:
+
+* **João Gabriel Vaz** - [GitHub](https://github.com/spwner)
+* **Giodano Liporati** - [GitHub](https://github.com/jg2alv)
+* **Rafael Sant'ana** - [GitHub](https://github.com/rafael-sant-ana)
