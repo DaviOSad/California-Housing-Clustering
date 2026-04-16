@@ -1,2 +1,20 @@
 # California-Housing-Clustering
-Implementation and evaluation of unsupervised machine learning (clustering) on the 1990 California Housing dataset. Practical project developed in Python (Pandas/NumPy) for the Data Science course at UFMG.
+# Data Analysis and Machine Learning: California Housing Clustering
+
+## 📌 Overview
+This repository contains the code and analytical reports developed for the Practical Assignment of the Introduction to Data Science course at the Federal University of Minas Gerais (UFMG). The primary focus of this project is the practical application of unsupervised machine learning algorithms to identify spatial and economic patterns within the classic 1990 California Housing dataset.
+
+## 🎯 Objectives and Deliverables
+* **Data Processing:** Structuring, cleaning, and manipulating the California census dataset to handle geographical and financial features.
+* **Machine Learning Modeling:** Implementation of clustering algorithms to group unlabeled data and discover hidden real estate patterns.
+* **Analytical Validation:** Rigorous evaluation of model performance using cohesion and separability metrics.
+* **Technical Documentation:** Generation of statistical reports and comparative tables to formalize the findings.
+
+## 💻 Technologies Used
+* **Language:** Python
+* **Data Manipulation & Analysis:** Pandas, NumPy
+* **Development Environment:** Jupyter Notebook / Google Colab
+* **Technical Documentation:** LaTeX
+
+## 📈 Impact and Results
+This project demonstrates the ability to translate raw census data into structured business and spatial insights. By applying quantitative performance metrics, it validates statistical hypotheses and ensures the mathematical reliability of the generated clusters.
